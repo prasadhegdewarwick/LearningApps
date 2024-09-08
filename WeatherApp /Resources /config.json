@@ -1,0 +1,8 @@
+{
+  "boston": {
+    "units": "metric"
+  },
+    "providence": {
+    "units": "imperial"
+  }
+}
